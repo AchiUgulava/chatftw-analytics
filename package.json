@@ -29,21 +29,10 @@
     "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bahricanyesil/nodejs-starter-template.git"
-  },
   "keywords": [
     "node.js",
     "boilerplate",
     "starter",
     "template"
-  ],
-  "author": "Bahrican Yesil",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bahricanyesil/nodejs-starter-template/issues"
-  },
-  "homepage": "https://github.com/bahricanyesil/nodejs-starter-template#readme",
-  "type": "module"
+  ]
 }
